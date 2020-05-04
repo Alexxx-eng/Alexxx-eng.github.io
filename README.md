@@ -9,4 +9,5 @@
 
 [Урок 5](https://alexxx-eng.github.io/lesson_3/ "Моя Готовая Домашка") - Знакомство с основами CSS
 
+[Урок 6](https://alexxx-eng.github.io/lesson_4/ "Моя Готовая Домашка") - Позиционирование в CSS
 
