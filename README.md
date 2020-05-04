@@ -15,3 +15,6 @@
 
 [Урок 8](https://alexxx-eng.github.io/lesson_6/ "Моя Готовая Домашка") - Ускорение верстки в разы
 
+[Урок 9](https://alexxx-eng.github.io/lesson_7/ "Моя Готовая Домашка") - Верстка при помощи bootstrap задание
+
+
