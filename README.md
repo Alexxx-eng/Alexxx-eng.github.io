@@ -7,3 +7,6 @@
 
 [Урок 4](https://alexxx-eng.github.io/lesson_2/ "Моя Готовая Домашка") - Знакомство с основами HTML
 
+[Урок 5](https://alexxx-eng.github.io/lesson_3/ "Моя Готовая Домашка") - Знакомство с основами CSS
+
+
