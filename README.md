@@ -11,3 +11,4 @@
 
 [Урок 6](https://alexxx-eng.github.io/lesson_4/ "Моя Готовая Домашка") - Позиционирование в CSS
 
+[Урок 7](https://alexxx-eng.github.io/lesson_5/ "Моя Готовая Домашка") - Верстка первого макета
