@@ -1,0 +1,43 @@
+h1 {
+	border: 2px solid #000;
+	border-color: green;
+	background-color: gray;
+	color: black;
+	text-align: center;
+	text-decoration: underline;
+}
+
+body{
+	background-color: black;
+}
+
+div {
+	color: white;
+	border: 1px solid #000;
+	border-color: green; 
+}
+
+span{
+	background-color: red;
+}
+
+q{
+	text-decoration:line-through;
+	background-color: gray;
+}
+
+b{
+	background-color: red;
+}
+
+.block{
+	background-color: gray;
+}
+
+.text1{
+	text-align:center;
+}
+
+.text2{
+	text-align:right;
+}
