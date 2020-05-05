@@ -13,6 +13,8 @@
 
 [Урок 7](https://alexxx-eng.github.io/lesson_5/ "Моя Готовая Домашка") - Верстка первого макета
 
+[Урок 7.1](https://alexxx-eng.github.io/lesson_10/ "Моя Готовая Домашка") - Верстка при помощи bootstrap задание
+
 [Урок 8](https://alexxx-eng.github.io/lesson_6/ "Моя Готовая Домашка") - Ускорение верстки в разы
 
 [Урок 9](https://alexxx-eng.github.io/lesson_7/ "Моя Готовая Домашка") - Верстка при помощи bootstrap задание
