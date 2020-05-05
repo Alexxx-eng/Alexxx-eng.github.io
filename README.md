@@ -17,4 +17,5 @@
 
 [Урок 9](https://alexxx-eng.github.io/lesson_7/ "Моя Готовая Домашка") - Верстка при помощи bootstrap задание
 
+[Урок 10](https://alexxx-eng.github.io/lesson_8/ "Моя Готовая Домашка") - Препроцессор LESS для CSS
 
