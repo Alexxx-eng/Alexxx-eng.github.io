@@ -1,0 +1,40 @@
+
+.header span {
+	display: block;
+}
+.section {
+	padding: 30px -0px;
+	margin-left: 485px;
+	margin-top: 120px;
+}
+.form {
+	border: 1px solid #cfdede;
+	padding: 0 30px 30px;	
+	margin
+
+}
+.form input {
+	margin-bottom: 12px;
+	background-color: #ebf4f4;
+}
+.form-header, .section-header {
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-weight: 900;
+}
+.form-btn {
+	background-color: #01c1c1;
+	margin-top: 35px;
+	margin-bottom: 17px;
+	
+}
+.bg-primary {
+ background-color: #01b3b3;
+ margin-right: 140px;
+ margin-bottom: 30px;
+ padding-top: 12px;
+ padding-bottom: 12px;
+}
+.row-header {
+	display: inline-block;
+}
